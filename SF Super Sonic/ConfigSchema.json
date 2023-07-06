@@ -1,0 +1,232 @@
+{
+  "Groups": [
+    {
+      "Name": "Mod",
+      "DisplayName": "Super Form Settings",
+      "Elements": [
+        {
+          "Name": "nolimit",
+          "DisplayName": "Remove Limitations",
+          "Description": [
+            "Remove 50 rings needed and ring loss."
+          ],
+          "Type": "bool",
+          "DefaultValue": false
+        }
+      ]
+    },
+    {
+      "Name": "Audio",
+      "DisplayName": "Audio Settings",
+      "Elements": [
+        {
+          "Name": "useSSMusic",
+          "DisplayName": "Change music when transforming",
+          "Description": [
+            "The game will play either; titan music, or the main theme, depending on the current island."
+          ],
+          "Type": "bool",
+          "DefaultValue": true
+        },
+        {
+          "Name": "musicList",
+          "DisplayName": "Super Form Music",
+          "Description": [
+            "Select which music should play when using Super Sonic."
+          ],
+          "Type": "MusicListE",
+          "DefaultValue": "11"
+        },
+        {
+          "Name": "vol",
+          "DisplayName": "Volume",
+          "Description": [
+            "Set the volume of the music. Min: 0, Max: 100"
+          ],
+          "Type": "float",
+          "DefaultValue": "80",
+          "MinValue": "0",
+          "MaxValue": "100"
+        }
+      ]
+    },
+    {
+      "Name": "Input",
+      "DisplayName": "Configure Controller",
+      "Elements": [
+        {
+          "Name": "AscendBtn",
+          "DisplayName": "Ascend Button",
+          "Description": [
+            "Set the button for ascending."
+          ],
+          "Type": "ButtonType",
+          "DefaultValue": "0x1000"
+        },
+        {
+          "Name": "DescendBtn",
+          "DisplayName": "Descend Button",
+          "Description": [
+            "Set the button for descending."
+          ],
+          "Type": "ButtonType",
+          "DefaultValue": "0x2000"
+        },
+        {
+          "Name": "TransformBtn",
+          "DisplayName": "Transform Button",
+          "Description": [
+            "Set the button for transformation."
+          ],
+          "Type": "ButtonType",
+          "DefaultValue": "0x0001"
+        },
+        {
+          "Name": "UntransformBtn",
+          "DisplayName": "DeTransform Button",
+          "Description": [
+            "Set the button for detransformation."
+          ],
+          "Type": "ButtonType",
+          "DefaultValue": "0x0002"
+        }
+      ]
+    },
+    {
+
+      "Name": "Key",
+      "DisplayName": "Keyboard",
+      "Elements": [
+        {
+          "Name": "AscendKey",
+          "DisplayName": "Ascend Key",
+          "Description": [
+            "Set the key for ascending."
+          ],
+          "Type": "string",
+          "DefaultValue": "SPACE"
+        },
+        {
+          "Name": "DescendKey",
+          "DisplayName": "Descend Key",
+          "Description": [
+            "Set the key for descending."
+          ],
+          "Type": "string",
+          "DefaultValue": "CTRL"
+        },
+        {
+          "Name": "TransformKey",
+          "DisplayName": "Transform Key",
+          "Description": [
+            "Set the key for transformation."
+          ],
+          "Type": "string",
+          "DefaultValue": "A"
+        },
+        {
+          "Name": "UntransformKey",
+          "DisplayName": "Detransform Key",
+          "Description": [
+            "Set the key for detransformation."
+          ],
+          "Type": "string",
+          "DefaultValue": "Z"
+        }
+      ]
+    }
+
+  ],
+  "Enums": {
+    "ButtonType": [
+      {
+        "DisplayName": "Dpad Up",
+        "Value": "0x0001"
+      },
+      {
+        "DisplayName": "Dpad Down",
+        "Value": "0x0002"
+      },
+      {
+        "DisplayName": "Dpad Left",
+        "Value": "0x0004"
+      },
+      {
+        "DisplayName": "Dpad Right",
+        "Value": "0x0008"
+      },
+      {
+        "DisplayName": "Back / Share",
+        "Value": "0x0020"
+      },
+      {
+        "DisplayName": "A",
+        "Value": "0x1000"
+      },
+      {
+        "DisplayName": "B",
+        "Value": "0x2000"
+      },
+      {
+        "DisplayName": "X",
+        "Value": "0x4000"
+      },
+      {
+        "DisplayName": "Y",
+        "Value": "0x8000"
+      }
+    ],
+    "MusicListE": [
+      {
+        "DisplayName": "Sonic 2",
+        "Value": "0"
+      },
+      {
+        "DisplayName": "Sonic 3",
+        "Value": "1"
+      },
+      {
+        "DisplayName": "Sonic & Knuckles",
+        "Value": "2"
+      },
+      {
+        "DisplayName": "Sonic Mania",
+        "Value": "3"
+      },
+      {
+        "DisplayName": "Sonic Adventure",
+        "Value": "4"
+      },
+      {
+        "DisplayName": "Sonic Adventure 2",
+        "Value": "5"
+      },
+      {
+        "DisplayName": "Sonic Heroes",
+        "Value": "6"
+      },
+      {
+        "DisplayName": "Undefeatable",
+        "Value": "7"
+      },
+      {
+        "DisplayName": "Break through it all (Special Edition)",
+        "Value": "8"
+      },
+      {
+        "DisplayName": "Find your Flame",
+        "Value": "9"
+      },
+      {
+        "DisplayName": "Sonic Frontiers: Main Theme",
+        "Value": "10"
+      },
+      {
+        "DisplayName": "Random",
+        "Value": "11"
+      }
+    ]
+  },
+
+  "IniFile": "config.ini"
+}
