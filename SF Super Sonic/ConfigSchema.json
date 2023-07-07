@@ -222,8 +222,12 @@
         "Value": "10"
       },
       {
-        "DisplayName": "Random",
+        "DisplayName": "Titans",
         "Value": "11"
+      },
+	  {
+        "DisplayName": "Random",
+        "Value": "12"
       }
     ]
   },
