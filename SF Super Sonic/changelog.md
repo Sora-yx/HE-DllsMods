@@ -1,2 +1,10 @@
+## Super Sonic V1.1
+- Keyboard check for transformation should now work properly
+- Talking to a NPC in Super should no longer crash the game
+- Removed leftover Debug features (New State param in console)
+- Running out of ring should now properly detransform (fix floaty physics and SS effects)
+- Hopefully fixed some random crashes when entering / leaving CyberStage.
+- Add a new music option to only have the Titans songs (randomly).
+
 ## Super Sonic V1.0
 - First Release
