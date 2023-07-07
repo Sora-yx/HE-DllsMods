@@ -1,1 +1,4 @@
+add config.ini
+add ConfigSchema.json
+add SF-Super-Sonic.dll
 add mod.ini
