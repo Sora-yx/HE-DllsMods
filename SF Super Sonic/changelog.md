@@ -1,5 +1,5 @@
 ## Super Sonic V1.2
-- Add support for Update 3
+- Add support for Update 3 (v1.40)
 - Gaining / Losing altitude is now progressive until a cap
 - Add Hedgehog May Cry support (Option)
 
