@@ -1,3 +1,8 @@
+## Super Sonic V1.2
+- Add support for Update 3
+- Gaining / Losing altitude is now progressive until a cap
+- Add Hedgehog May Cry support (Option)
+
 ## Super Sonic V1.1
 - Keyboard check for transformation should now work properly
 - Talking to a NPC in Super should no longer crash the game
