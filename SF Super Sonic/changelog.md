@@ -2,7 +2,7 @@
 - Add support for Update 3 (v1.40)
 - Gaining / Losing altitude is now progressive until a cap
 - Add Hedgehog May Cry support (Option)
-Super Sonic 2 support is still planned, stay tuned.
+- Super Sonic 2 support is still planned, stay tuned.
 
 ## Super Sonic V1.1
 - Keyboard check for transformation should now work properly
