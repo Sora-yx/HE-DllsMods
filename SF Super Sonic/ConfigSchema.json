@@ -12,6 +12,15 @@
           ],
           "Type": "bool",
           "DefaultValue": false
+        },
+        {
+          "Name": "hedgeMayCry",
+          "DisplayName": "Hedgehog May Cry",
+          "Description": [
+            "Super Form will be disabled after 45 seconds and will cost 100 rings instead of 50."
+          ],
+          "Type": "bool",
+          "DefaultValue": false
         }
       ]
     },
