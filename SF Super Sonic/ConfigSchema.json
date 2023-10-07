@@ -17,7 +17,7 @@
           "Name": "hedgeMayCry",
           "DisplayName": "Hedgehog May Cry",
           "Description": [
-            "Super Form will be disabled after 45 seconds and will cost 100 rings instead of 50."
+            "Super Form will be disabled after 45 seconds for 1:30 and will cost 100 rings instead of 50. SS2 Will cost 200 rings."
           ],
           "Type": "bool",
           "DefaultValue": false
