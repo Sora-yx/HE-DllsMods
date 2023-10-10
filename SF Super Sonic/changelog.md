@@ -2,6 +2,7 @@
 - Add Super Sonic 2 Support (Thanks to Death for his help)
 - Improve stability, should no longer crash when dying
 - Updated Hedgehog May Cry support
+- You can now gain and lose height during Titans fight as well as detransforming if you feel like it. (At your own risks)
 
 ## Super Sonic V1.2
 - Add support for Update 3 (v1.40)
