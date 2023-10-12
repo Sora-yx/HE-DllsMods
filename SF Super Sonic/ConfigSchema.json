@@ -14,6 +14,15 @@
           "DefaultValue": false
         },
         {
+          "Name": "isPerfectParry",
+          "DisplayName": "Perfect Parry when Super Sonic 2",
+          "Description": [
+            "This will force Perfect Parry when you will turn to Super Sonic 2."
+          ],
+          "Type": "bool",
+          "DefaultValue": false
+        },
+        {
           "Name": "hedgeMayCry",
           "DisplayName": "Hedgehog May Cry",
           "Description": [
@@ -44,7 +53,7 @@
             "Select which music should play when using Super Sonic."
           ],
           "Type": "MusicListE",
-          "DefaultValue": "11"
+          "DefaultValue": "12"
         },
         {
           "Name": "vol",
@@ -231,12 +240,16 @@
         "Value": "10"
       },
       {
-        "DisplayName": "Titans",
+        "DisplayName": "Sonic Frontiers: Main Theme (Revisited)",
         "Value": "11"
       },
-	  {
-        "DisplayName": "Random",
+      {
+        "DisplayName": "Titans",
         "Value": "12"
+      },
+      {
+        "DisplayName": "Random",
+        "Value": "13"
       }
     ]
   },

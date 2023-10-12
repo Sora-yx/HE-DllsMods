@@ -1,0 +1,4 @@
+Thanks to:
+- ĐeäTh for all his help and tips to work with Hedgehog Engine games, also found the function to trigger SS and setting the needed flags.
+- Hyper also helped with tips and useful functions
+- CzechballModel Reworked some music to loop a lot better, also added the new version of "I'm Here".
