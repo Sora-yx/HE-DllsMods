@@ -4,6 +4,7 @@
 - Added an option for Perfect Parry when using SS2
 - SS2 will now use his new parry animation (regardless of Perfect Parry settings)
 - Rings should no longer drop when the game is paused or when you use Photo Mode.
+- Added credits txt file
 
 ## Super Sonic V1.3
 - Add Super Sonic 2 Support (Thanks to Death for his help)
