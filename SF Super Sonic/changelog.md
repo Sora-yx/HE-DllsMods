@@ -1,3 +1,10 @@
+## Super Sonic V1.4
+- Better loop for music (by CzechballModel)
+- Added "I'm Here (Revisited)" (by CzechballModel)
+- Added an option for Perfect Parry when using SS2
+- SS2 will now use his new parry animation (regardless of Perfect Parry settings)
+- Rings should no longer drop when the game is paused or when you use Photo Mode.
+
 ## Super Sonic V1.3
 - Add Super Sonic 2 Support (Thanks to Death for his help)
 - Improve stability, should no longer crash when dying
