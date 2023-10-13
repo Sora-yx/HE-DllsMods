@@ -1,3 +1,6 @@
+## Super Sonic V1.4.1
+- Fix sigscan not working for some people.
+
 ## Super Sonic V1.4
 - Better loop for music (by CzechballModel)
 - Added "I'm Here (Revisited)" (by CzechballModel)
