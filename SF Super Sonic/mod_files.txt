@@ -1,2 +1,18 @@
+
+add music/heroes.adx
+add music/knight.adx
+add music/maintheme.adx
+add music/maintheme_re.adx
+add music/mania.adx
+add music/s&k.adx
+add music/sa1.adx
+add music/sa2.adx
+add music/sonic2.adx
+add music/sonic3.adx
+add music/undefeatable.adx
+add music/wyvern_ext.adx
+add config.ini
+add ConfigSchema.json
+add credits.txt
 add SF-Super-Sonic.dll
 add mod.ini
