@@ -1,3 +1,7 @@
+## Super Sonic V1.4.3
+- Add Compatibility with V1.41.
+- Fixed a small typo in the mod config.
+  
 ## Super Sonic V1.4.2
 - Updated Sigscan method to resolve some conflicts with other mods.
 - HMC Detransform should no longer happen during Titans fight.
