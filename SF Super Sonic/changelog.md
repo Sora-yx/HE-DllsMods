@@ -1,3 +1,6 @@
+## Super Sonic V1.4.4
+- Add Compatibility with V1.42.
+
 ## Super Sonic V1.4.3
 - Add Compatibility with V1.41.
 - Fixed a small typo in the mod config.
