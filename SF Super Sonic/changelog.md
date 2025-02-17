@@ -1,3 +1,6 @@
+## Super Sonic V1.4.5
+- I forgot Super Sonic 2, lol.
+
 ## Super Sonic V1.4.4
 - Add Compatibility with V1.42.
 
